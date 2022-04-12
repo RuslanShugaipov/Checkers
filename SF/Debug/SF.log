@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\руслан\onedrive\документы\visual studio 2019\projects\sf\sf\main.cpp(94): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\руслан\onedrive\документы\visual studio 2019\projects\sf\sf\main.cpp(100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\руслан\onedrive\документы\visual studio 2019\projects\sf\sf\main.cpp(106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\руслан\onedrive\документы\visual studio 2019\projects\sf\sf\main.cpp(113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SF.vcxproj -> C:\Users\Руслан\OneDrive\Документы\Visual Studio 2019\Projects\SF\Debug\SF.exe

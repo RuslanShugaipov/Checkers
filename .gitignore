@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SF/v16/ipch/AutoPCH/58886d1d0aeab908
+/.vs/SF/v16/Browse.VC.opendb
+/.vs/SF/v16/Browse.VC.db-wal
+/.vs/SF/v16/Browse.VC.db-shm
+/.vs/SF/v16/Browse.VC.db
